@@ -19,8 +19,8 @@ If the code you've built in the past doesn't meet your current needs, changing i
 
 SOLID stands for:
 
-- S: Single Responsibility Principle
-- O: Open-Closed Principle
-- L: Liskov-Substitution Principle
-- I: Interface Segregation Principle
-- D: Dependency Inversion Principle
+- S: <a href="https://github.com/Robert1802/JavaScript-SOLID/blob/master/1-S-Single-Responsibility-Principle.js">Single Responsibility Principle
+- O: <a href="https://github.com/Robert1802/JavaScript-SOLID/blob/master/2-O-Open-Closed-Principle.js">Open-Closed Principle
+- L: <a href="https://github.com/Robert1802/JavaScript-SOLID/blob/master/3-L-Liskov-Substitution-Principle.js">Liskov-Substitution Principle
+- I: <a href="https://github.com/Robert1802/JavaScript-SOLID/blob/master/4-I-Interface-Segregation-Principle.js">Interface Segregation Principle
+- D: <a href="https://github.com/Robert1802/JavaScript-SOLID/blob/master/5-D-Dependency-Inversion-Principle.js">Dependency Inversion Principle
